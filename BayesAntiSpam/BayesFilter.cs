@@ -12,7 +12,7 @@ namespace BayesAntiSpam
 {
     public class BayesFilter
     {
-        private IAnalyser analyser = new SimHashAnalyser();
+        private IAnalyser analyser = new SimHashAnalyser();  
         private int _ngood;
         private int _nbad;
 
