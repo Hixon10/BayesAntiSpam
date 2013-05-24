@@ -1,0 +1,14 @@
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\bin\Debug\Gui.exe
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\bin\Debug\Gui.pdb
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\Gui.Form1.resources
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\Gui.Properties.Resources.resources
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\Gui.exe
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\obj\x86\Debug\Gui.pdb
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\bin\Debug\BayesAntiSpam.dll
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\bin\Debug\SimHashBusiness.dll
+C:\Users\Денис\Desktop\4\BayesAntiSpam\Gui\bin\Debug\BayesAntiSpam.pdb
+C:\Users\Денис\Desktop\4\работает\BayesAntiSpam\Gui\obj\x86\Debug\Gui.exe
+C:\Users\Денис\Desktop\4\работает\BayesAntiSpam\Gui\obj\x86\Debug\Gui.pdb
