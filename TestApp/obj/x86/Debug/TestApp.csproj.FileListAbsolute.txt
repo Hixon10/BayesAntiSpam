@@ -14,3 +14,11 @@ C:\Users\Денис\Desktop\4\BayesAntiSpam\TestApp\bin\Debug\BayesAntiSpam.dll
 C:\Users\Денис\Desktop\4\BayesAntiSpam\TestApp\bin\Debug\SimHashBusiness.dll
 C:\Users\Денис\Desktop\4\BayesAntiSpam\TestApp\bin\Debug\BayesAntiSpam.pdb
 C:\Users\Денис\Desktop\4\BayesAntiSpam\TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\bin\Debug\TestApp.exe
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\bin\Debug\BayesAntiSpam.dll
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\bin\Debug\SimHashBusiness.dll
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\bin\Debug\BayesAntiSpam.pdb
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\Денис\Desktop\BayesAntiSpam\TestApp\obj\x86\Debug\TestApp.pdb

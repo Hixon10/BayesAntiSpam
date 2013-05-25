@@ -22,7 +22,20 @@ namespace BayesAntiSpam
 
         public SortedDictionary<string, double> GetProbabilities(int spamShinglesNumber = -1)
         {
-            return GetShingles(PATH_TO_PROBABILITIES, spamShinglesNumber);
+            SortedDictionary<string, double> shingles = new SortedDictionary<string, double>();
+
+            String[] text = File.ReadAllLines(PATH_TO_PROBABILITIES);
+            foreach (var s in text)
+            {
+                string[] splitedShingle = s.Split(DELIMITER);
+
+                if (!shingles.ContainsKey(splitedShingle[0]))
+                {
+                    shingles.Add(splitedShingle[0], double.Parse(splitedShingle[1]));
+                }
+            }
+
+            return shingles;
         }
 
         public SortedDictionary<string, double> GetSpamShingles(int spamShinglesNumber = -1)
